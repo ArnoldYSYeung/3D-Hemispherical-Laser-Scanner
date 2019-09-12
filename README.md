@@ -12,4 +12,4 @@ This project was completed by Arnold Yeung and [Albert Lagman](https://www.githu
 # Resources
 To learn more, see the following resources:
   - [Portfolio slides](https://drive.google.com/file/d/0B4IkhV7KdHJ5WElFeDBSN24ySHc/view)
-  - [Youtube video](https://www.youtube.com/watch?v=Gfr9DGkmo1A)
+  - [Youtube video](https://www.youtube.com/watch?v=Tb--Rb1i5a0)
